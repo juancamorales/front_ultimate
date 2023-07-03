@@ -1,0 +1,18 @@
+.ejers{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPn2pgOBqeZAmVZfFAgd9YmyZPwHBhnEC2xmMUCzD3KeUN12hpJ0547QtwYTWVamvtbkw&usqp=CAU");
+    background-size: 800px;
+    text-align: center;
+    opacity: 1;
+    margin: auto;
+    padding: 20px;
+    width: 300px;
+    height: auto;
+    border: 1px solid rgba(29, 28, 28, 0.186);
+    border-radius: 50px;
+    margin-top: 30px;
+    box-shadow: 0 4px 8px 4px rgba(0, 0, 0, 0.2);
+}
+
+.ejers:hover {
+    box-shadow: 0 8px 16px 10px rgba(0, 0, 0, 0.571);
+  }

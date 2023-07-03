@@ -1,0 +1,90 @@
+img {
+    border-radius: 140px;
+  }
+  
+  .img-devs,
+  .img-devs2 {
+    font-size: 0;
+    text-align: center;
+  
+  }
+  
+  .img-devs .devs,
+  .img-devs2 .devs {
+    display: inline-block;
+    font-size: inherit;
+  
+  }
+  
+  .img-devs .devs {
+    width: 55%;
+    max-width: 345px;
+  }
+  
+  .img-devs2 .devs {
+    width: 55%;
+    max-width: 345px;
+  }
+  
+  .devs img {
+    height: 100px;
+    width: 100px;
+    border-radius: 150px;
+  }
+
+  h1 {
+    color: rgb(39, 233, 133);
+  }
+
+  .about {
+    background-image: url("https://previews.123rf.com/images/kluva/kluva1512/kluva151200038/49482565-deportista-lanzando-ultimate-frisbee-clipart-lineart-color-ilustraci%C3%B3n-vectorial.jpg");
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .text {
+    text-align: center;
+    opacity: 1;
+    margin: auto;
+    padding: 20px;
+    width: 300px;
+    height: auto;
+    border: 1px solid rgba(29, 28, 28, 0.186);
+    border-radius: 50px;
+    margin-top: 30px;
+  }
+
+  .devs {
+    border: 1px solid #858585cc;
+	border-top: 0px solid #858585cc;
+	border-left: 0px solid #858585cc;
+	border-right: 0px solid #858585cc;
+	width: 93%;
+	height: 10.9375em;
+  border-radius: 100px;
+    box-shadow: 0 4px 8px 4px rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    padding: 14px 20px;
+    color: black;
+  }
+  
+  .devs2 {
+    border: 1px solid #858585cc;
+	border-top: 0px solid #858585cc;
+	border-left: 0px solid #858585cc;
+	border-right: 0px solid #858585cc;
+	width: 93%;
+	height: 15.9375em;
+  border-radius: 100px;
+    box-shadow: 0 4px 8px 4px rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    padding: 14px 20px;
+    color: black;
+  }
+
+  .devs:hover {
+    box-shadow: 0 8px 16px 10px rgba(0, 0, 0, 0.571);
+  }
+  

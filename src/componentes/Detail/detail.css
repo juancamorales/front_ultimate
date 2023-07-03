@@ -1,0 +1,17 @@
+.detail {
+    /* background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_D8RW6rTNoU9q44AWJkvOfhwlv4OWWU96SgeJXvJB-fe1GvnL2P03GK3eJGEaNSHUguY&usqp=CAU"); */
+    background-size: 800px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.details {
+    /* background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgDyCdow76YCuisYAMcUYocF6WuATVGuxOuD0RX2HGIcaE8viBRTqnccE1ChsgKEkDlv8&usqp=CAU"); */
+    background-size: 800px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
