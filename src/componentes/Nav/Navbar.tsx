@@ -8,7 +8,7 @@ function Naavbar() {
                 <li><Link to={`/ejercicios`}>Ejercicios</Link></li>
                 <li><Link to={`/entrenam`}>Entrenamientos</Link></li>
                 <li><Link to={`/noticias`}>Novedades</Link></li>
-                <li><Link to={`/about`}>About</Link></li>
+                <li><Link to={`/about`}>Acerca de</Link></li>
                 <li><Link to={"/"}>Atras</Link></li>
             </ul>
         </>

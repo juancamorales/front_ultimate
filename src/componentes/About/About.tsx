@@ -13,7 +13,7 @@ function About() {
           <h1>Como llego el ultimate a Colombia</h1>
           <h5>El Ultimate Frisbee arribó a Colombia gracias a un estudiante de intercambio, Corey Tyrell, quien llegó a la Universidad de los Andes y decidió difundirlo. El 16 de abril de 2001 se creó en Bogotá la Asociación Colombiana de Ultimate Frisbee.</h5>
           <h1>Objetivo de la pagina</h1>
-          <h5>hacer la comunicacion de dos deportes o mas, a un pueblo a travez de una pagina web que cominica todo relacionado dobre estos deportes tales cosas como novedades, entrenamientos y ejercicios que ayuden a estos para los que quieran practicar desde cualquier lugar</h5>
+          <h5>hacer la comunicacion de dos deportes o mas, a un pueblo a travez de una pagina web que cominica todo relacionado sobre estos deportes tales cosas como novedades, entrenamientos y ejercicios que ayuden a estos para los que quieran practicar desde cualquier lugar</h5>
         </div>
         <h1>Creador de la pagina</h1>
         <div className="devs">

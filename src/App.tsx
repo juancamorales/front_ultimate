@@ -13,7 +13,7 @@ import Adm from "./componentes/Adm/Adm"
 import Novedades from "./componentes/Adm/Noticias/Noticias";
 import Entrena from "./componentes/Adm/Entrenam/Entrenam";
 
-axios.defaults.baseURL = "http://localhost:3001"
+axios.defaults.baseURL = "https://deporte.onrender.com"
 
 function App() {
   return (
